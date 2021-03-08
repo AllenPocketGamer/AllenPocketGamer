@@ -14,5 +14,5 @@
 #### Projects 🛠️
 
 <p align="left">
-<img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=allenpocketgamer&repo=yam&theme=radical"/>
+<img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=allenpocketgamer&repo=yam&theme=dracula"/>
 </p>
