@@ -10,9 +10,3 @@
 * A indie game developer 🤟🏼
 * Interested in **Rendering**/**Blockchain** 💎
 * Favorite languages: **Rust** 😍
-
-#### Projects 🛠️
-
-<p align="left">
-<img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=allenpocketgamer&repo=yam&theme=dracula"/>
-</p>
