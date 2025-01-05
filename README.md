@@ -7,6 +7,6 @@
 
 #### About Me 😉
 
-* A indie game developer 🤟🏼
+* A game developer 🤟🏼
 * Interested in **Rendering**/**Blockchain** 💎
 * Favorite languages: **Rust** 😍
